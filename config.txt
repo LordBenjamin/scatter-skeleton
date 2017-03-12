@@ -1,0 +1,8 @@
+email: user@example.com
+url: http://www.example.com/
+path: /
+title: Scatter Skeleton
+data_path: ./src/
+static_path: ./src/static/
+template_path: ./src/template/
+web_path: ./dist/

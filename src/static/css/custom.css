@@ -1,0 +1,12 @@
+html {
+  overflow-y: scroll;
+}
+
+nav ul {
+ list-style-type: none;
+}
+
+nav ul li {
+  float: left;
+  padding-right: 16px;
+}
