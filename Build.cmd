@@ -3,6 +3,6 @@
 RMDIR "dist" /S /Q
 MKDIR "dist"
 
-.\Scatter\Scatter.exe .\
+dotnet .\Scatter\Scatter.dll .\
 
 PAUSE
